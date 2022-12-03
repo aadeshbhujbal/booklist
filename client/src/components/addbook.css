@@ -1,0 +1,49 @@
+.btn {
+	border: none;
+	outline: none;
+    margin-top: 13px;
+    margin-left: 150px;
+	padding: 1px 0;
+	background-color: #273647;
+    
+	border-radius: 5px;
+    border-style: solid;
+    border-color: rgb(236, 217, 12);
+	width: 140px;
+	font-weight: bold;
+	font-size: 14px;
+    color: rgb(255, 217, 5);
+	cursor: pointer;
+	margin-right: 20px;
+}
+h1{
+    margin-left:  45%;
+    font-size: 46px;
+    color: aliceblue;
+}
+h3{
+    margin-left:  47%;
+    color: aliceblue;
+}
+.textfield {
+    background-color: rgb(224, 224, 224);
+    color: rgb(30, 225, 30);
+}
+.btn1 {
+	border: none;
+	outline: none;
+    margin-top: 13px;
+    margin-left: 20%;
+	padding: 1px 0;
+	background-color: #273647;
+    height: 45px;
+	border-radius: 5px;
+    border-style: solid;
+    border-color: rgb(236, 217, 12);
+	width: 60%;
+	font-weight: bold;
+	font-size: 14px;
+    color: rgb(255, 217, 5);
+	cursor: pointer;
+	margin-right: 20px;
+}
